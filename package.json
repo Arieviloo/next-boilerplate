@@ -10,7 +10,7 @@
     "test:watch": "yarn test --watch"
   },
   "dependencies": {
-    "next": "9.5.1",
+    "next": "9.5.4",
     "react": "16.13.1",
     "react-dom": "16.13.1",
     "styled-components": "^5.1.1"
